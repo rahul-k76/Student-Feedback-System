@@ -215,7 +215,7 @@ Before we can look into the php code, you need to create a database called "feed
     <!-- /.container -->
 	
 	<div class="navbar-fixed-bottom nav navbar-inverse text-center" style="padding:15px;height:40px; background:#66CCFF">
-		<span style="color:#FFFFFF">Developed By ....... 	<a href="http://www.phptpoint.com">Phptpoint.com</a> </span>
+		<span style="color:#FFFFFF">Developed By Rahul</span>
 	</div>
     <!-- jQuery -->
     <script src="css/jquery.js"></script>
