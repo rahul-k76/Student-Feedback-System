@@ -1,9 +1,17 @@
-# Student-Feedback-System
+![IMG_20230708_233216](https://github.com/user-attachments/assets/5d8e4a21-f218-4966-b9a6-34b44e03cd19)# Student-Feedback-System
 
  🚀 In this project, we proposed a student feedback system that is completely online. Educational institutes or colleges can use it to maintain the records of student’s feedback. Valuing Project descriptions and asking for 
 feedback has recognized benefits for both faculty and students. For faculty to develop and improve teaching skills. 
 Using this application, students can fill out their feedback through the web. Once they submit it, their feedback will be 
 analyzed quickly, and a feedback report can be generated quickly.⌨️
+
+Project Home Page is like:
+
+![{B566164B-7F46-40C5-BA4B-203F47209EDB}](https://github.com/user-attachments/assets/a32ed424-fb5f-423c-a40b-ff216ccbb1bf)
+
+Registration Section:
+![{184144FE-7445-4D0A-A122-249E26D110B5}](https://github.com/user-attachments/assets/2d1a1716-f30c-41ca-94b3-fb177c440cef)
+
 
 "Some Project-Related Information"
 
